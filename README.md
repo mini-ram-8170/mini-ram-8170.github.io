@@ -1,1 +1,1 @@
-# mini-ram-8170.github.io
+Start editing from index.html(homepage) and all js files in js folder and css files i  css folder
